@@ -22,13 +22,74 @@ The homeworks are a pedagogic means of ensuring some uniformity in achieving the
 Summary of Homework Topics
 --------------------------
 
-| HW # | TOPICS |
-| --- | --- |
-| 1 | Create a project plan and find the critical path (CPM) |
-| 2 | Create a DSM model and analyze the iterations |
-| 3 | Create a basic project dynamics model in Vensim (SD) |
-| 4 | Setup project monitoring and cost control (EVM) |
-| 5 | Manipulate an advanced project dynamics model (SD) |
-| 6 | Design and analyze project organizations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HW #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Create a project plan and find the critical path (CPM)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Create a DSM model and analyze the iterations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Create a basic project dynamics model in Vensim (SD)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Setup project monitoring and cost control (EVM)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Manipulate an advanced project dynamics model (SD)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Design and analyze project organizations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 In 2012 we will use the MIT CityCar electric car project as the common context for all the homeworks. See here for more details: [http://cp.media.mit.edu/research/54-citycar](https://www.media.mit.edu/projects/citycar/overview/)

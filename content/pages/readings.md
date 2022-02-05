@@ -15,34 +15,263 @@ This textbook is being written to support this class and is currently under deve
 Required Reading
 ----------------
 
-| SES # | CHAPTERS, ARTICLES AND HANDOUTS |
-| --- | --- |
-| 1 | \[de Weck\] "Introduction to Project Management" |
-| 2 | Levy, F. K., et al., "[The ABCs of Critical Path Method](http://hbr.org/product/a/an/63508-PDF-ENG?cm_sp=doi-_-article-_-63508-PDF-ENG&referral=00103)." _Harvard Business Review_, September-October, 1963. |
-| 2 | \[de Weck\] "Network Planning Techniques" |
-| 3 | \[de Weck\] "Critical Chain Method" |
-| 4 | \[de Weck\] "Design Structure Matrix Method" |
-| 4 | Eppinger, Steven D., Daniel E. Whitney, et al. "[A Model-Based Method for Organizing Tasks in Product Development](http://link.springer.com/article/10.1007%2FBF01588087)." _Research in Engineering Design_ 6, no. 1 (1994): 1–13. |
-| 5 | Eppinger, Steven D., Murthy V. Nukala, et al. "[Generalised Models of Design Iteration Using Signal Flow Graphs](http://link.springer.com/article/10.1007/BF01596486)." _Research in Engineering Design_ 9, no. 2 (1997): 112–23. |
-| 6 | \[de Weck\] "Introduction to Project Dynamics"—Chapter SD1 |
-| 7 | \[de Weck\] "Causes of Project Dynamics"—Chapter SD2 |
-| 8 | \[de Weck\] "A simple Model of Project Dynamics"—Chapter SD3 |
-| 8 | Vensim Tutorial—Appendix SDA—Introduction to Project Dynamics Modeling Using Vensim PLE |
-| 10 | \[de Weck\] "Budgeting and Cost Control" |
-| 10 | Earned Value Management (EVM)—Gold Card |
-| 11 | \[de Weck\] "Risk Management" |
-| 11 | Neufville, Richard de, Oliver de Weck, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Uncertainty Management for Engineering Systems Planning and Design." (PDF)](http://esd.mit.edu/symposium/pdfs/monograph/uncertainty.pdf) _Engineering Systems Monograph_. March 29-31, 2004. |
-| 13 | HBS Case: 9-396-311, BAE Automated Systems (A): Denver International Airport Baggage-Handling System. |
-| 14 | HBS Case: 9-601-040, The Rise and Fall of Iridium : Case Study about the Iridium Low Earth Orbit Communications System. |
-| 14 | Sloan Foundation Engineering Systems Study: (de Weck, de Neufville) Low Earth Orbit Satellite Communication Constellations—Inspired by the history of Iridium and Globalstar. Read Module 1: Technical Success and Economic Failure. |
-| 16 | James Lyneis, Kenneth Cooper, and Sharon Els, "Strategic Management of Complex Projects," System Dynamics Review, Fall 2001. |
-| 16 | \[de Weck\] "Strategic Project Management"—SD4 |
-| 15 |  {{< br >}}{{< br >}} HBS Case: 9-602-086, Microsoft.NET {{< br >}}{{< br >}} URL for downloading will be provided via email. |
-| 17 | Take the MBTI Personality Test—URL will be provided. |
-| 19 | Manuel E. Sosa, Steven D. Eppinger, et al. "[The Misalignment of Product Architecture and Organizational Structure in Complex Product Development](http://dx.doi.org/10.1287/mnsc.1040.0289)." _Management Science_ 50, no. 12, (2004): 1674–89, December 2004. |
-| 19 | \[de Weck\] "Organizations and Projects" |
-| 21 |  {{< br >}}{{< br >}} Browse the following website for 30 minutes: [http://www.cyborlink.com/](http://www.cyborlink.com/) {{< br >}}{{< br >}} International Business Etiquette |
-| 23 | Browse the following website for 30 minutes: [http://www.pmi.org](http://www.pmi.org) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CHAPTERS, ARTICLES AND HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Introduction to Project Management"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Levy, F. K., et al., "[The ABCs of Critical Path Method](http://hbr.org/product/a/an/63508-PDF-ENG?cm_sp=doi-_-article-_-63508-PDF-ENG&referral=00103)." _Harvard Business Review_, September-October, 1963.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Network Planning Techniques"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Critical Chain Method"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Design Structure Matrix Method"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Eppinger, Steven D., Daniel E. Whitney, et al. "[A Model-Based Method for Organizing Tasks in Product Development](http://link.springer.com/article/10.1007%2FBF01588087)." _Research in Engineering Design_ 6, no. 1 (1994): 1–13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Eppinger, Steven D., Murthy V. Nukala, et al. "[Generalised Models of Design Iteration Using Signal Flow Graphs](http://link.springer.com/article/10.1007/BF01596486)." _Research in Engineering Design_ 9, no. 2 (1997): 112–23.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Introduction to Project Dynamics"—Chapter SD1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Causes of Project Dynamics"—Chapter SD2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "A simple Model of Project Dynamics"—Chapter SD3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Vensim Tutorial—Appendix SDA—Introduction to Project Dynamics Modeling Using Vensim PLE
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Budgeting and Cost Control"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Earned Value Management (EVM)—Gold Card
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Risk Management"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Neufville, Richard de, Oliver de Weck, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Uncertainty Management for Engineering Systems Planning and Design." (PDF)](http://esd.mit.edu/symposium/pdfs/monograph/uncertainty.pdf) _Engineering Systems Monograph_. March 29-31, 2004.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+HBS Case: 9-396-311, BAE Automated Systems (A): Denver International Airport Baggage-Handling System.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+HBS Case: 9-601-040, The Rise and Fall of Iridium : Case Study about the Iridium Low Earth Orbit Communications System.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Sloan Foundation Engineering Systems Study: (de Weck, de Neufville) Low Earth Orbit Satellite Communication Constellations—Inspired by the history of Iridium and Globalstar. Read Module 1: Technical Success and Economic Failure.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+James Lyneis, Kenneth Cooper, and Sharon Els, "Strategic Management of Complex Projects," System Dynamics Review, Fall 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Strategic Project Management"—SD4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HBS Case: 9-602-086, Microsoft.NET
+
+URL for downloading will be provided via email.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Take the MBTI Personality Test—URL will be provided.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Manuel E. Sosa, Steven D. Eppinger, et al. "[The Misalignment of Product Architecture and Organizational Structure in Complex Product Development](http://dx.doi.org/10.1287/mnsc.1040.0289)." _Management Science_ 50, no. 12, (2004): 1674–89, December 2004.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+\[de Weck\] "Organizations and Projects"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Browse the following website for 30 minutes: [http://www.cyborlink.com/](http://www.cyborlink.com/)
+
+International Business Etiquette
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Browse the following website for 30 minutes: [http://www.pmi.org](http://www.pmi.org)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student contributions and pointers to relevant references are encouraged and should be sent to the TAs.
 

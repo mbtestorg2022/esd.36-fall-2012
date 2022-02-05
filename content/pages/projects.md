@@ -88,13 +88,66 @@ Administration
 Important Project Milestones
 ----------------------------
 
-| # | MILESTONE |
-| --- | --- |
-| 1 | Project assignments handed out |
-| 2 | 2-page project proposal due the class site |
-| 3 | Project approval and feedback via email from instructors |
-| 4 | Project update due (500 words), upload to the class site and email TA |
-| 5 | Project Final presentations, upload to the class site 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+#
+{{< thclose >}}
+{{< thopen >}}
+MILESTONE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Project assignments handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+2-page project proposal due the class site
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Project approval and feedback via email from instructors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Project update due (500 words), upload to the class site and email TA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Project Final presentations, upload to the class site
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Appendix
 --------
