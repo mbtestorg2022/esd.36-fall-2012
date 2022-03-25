@@ -159,7 +159,7 @@ Earned Value Management (EVM)—Gold Card
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Neufville, Richard de, Oliver de Weck, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Uncertainty Management for Engineering Systems Planning and Design." (PDF)](http://esd.mit.edu/symposium/pdfs/monograph/uncertainty.pdf) _Engineering Systems Monograph_. March 29-31, 2004.
+Neufville, Richard de, Oliver de Weck, et al. "[Uncertainty Management for Engineering Systems Planning and Design." (PDF)](http://esd.mit.edu/symposium/pdfs/monograph/uncertainty.pdf) _Engineering Systems Monograph_. March 29-31, 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
